@@ -1,0 +1,12 @@
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\bin\Debug\net7.0\Auth.Service.Common.deps.json
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\bin\Debug\net7.0\Auth.Service.Common.dll
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\bin\Debug\net7.0\Auth.Service.Common.pdb
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.csproj.AssemblyReference.cache
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.AssemblyInfoInputs.cache
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.AssemblyInfo.cs
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.csproj.CoreCompileInputs.cache
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.dll
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\refint\Auth.Service.Common.dll
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\Auth.Service.Common.pdb
+D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\obj\Debug\net7.0\ref\Auth.Service.Common.dll

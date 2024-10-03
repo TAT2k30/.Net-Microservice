@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{19124A52-7789-4F49-A362-20F628A9E51B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth.Service.Common", "src\Auth.Service.Common\Auth.Service.Common.csproj", "{D64B5471-EA36-403D-89C3-DA1D39C1C85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64B5471-EA36-403D-89C3-DA1D39C1C85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64B5471-EA36-403D-89C3-DA1D39C1C85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64B5471-EA36-403D-89C3-DA1D39C1C85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64B5471-EA36-403D-89C3-DA1D39C1C85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D64B5471-EA36-403D-89C3-DA1D39C1C85E} = {19124A52-7789-4F49-A362-20F628A9E51B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2460304F-0522-40BD-8E95-EF0F130E4759}
+	EndGlobalSection
+EndGlobal

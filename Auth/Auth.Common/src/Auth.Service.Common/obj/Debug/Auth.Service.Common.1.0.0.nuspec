@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Auth.Service.Common</id>
+    <version>1.0.0</version>
+    <authors>Auth.Service.Common</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="BCrypt.Net-Next" version="4.0.3" exclude="Build,Analyzers" />
+        <dependency id="MassTransit" version="8.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authorization" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Binder" version="8.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.EnvironmentVariables" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="MongoDB.Driver" version="2.29.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="4.0.2" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Console" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Self_Project\Auth\Auth.Common\src\Auth.Service.Common\bin\Debug\net7.0\Auth.Service.Common.dll" target="lib\net7.0\Auth.Service.Common.dll" />
+  </files>
+</package>
