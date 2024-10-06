@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVswrSF/0J4=",
+  "success": false,
+  "projectFilePath": "D:\\Self_Project\\source_code\\PlatformService\\PlatformService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages\\Play_packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages' doesn't exist.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages\\Auth_Packages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages\\Auth_Packages' doesn't exist.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\Self_Project\\packages\\Play_packages' doesn't exist.",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection"
+    }
+  ]
+}
